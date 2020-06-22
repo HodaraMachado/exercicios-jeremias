@@ -1,3 +1,5 @@
+package principal;
+
 public class Nome {
 
      public String nome;

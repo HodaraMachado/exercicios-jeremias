@@ -1,4 +1,8 @@
-public class main {
+package principal;
+
+public class Principal {
+
+
     public static void main(String[] args) {
         // 1. Crie um programa que imprima na tela a sua idade e a data de nascimento utilizando apenas variáveis do tipo inteiro. (formato de saída da data dd/mm/aaaa)
 
